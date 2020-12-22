@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nconst Index = () => /*#__PURE__*/_jsx(\"div\", {\n  children: \"Sample App using react and next Js\"\n});\n\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}
